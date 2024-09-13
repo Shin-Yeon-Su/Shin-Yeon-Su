@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my my name is shin yoen su👋
 
 <!--
 **Shin-Yeon-Su/Shin-Yeon-Su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
